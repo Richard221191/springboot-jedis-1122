@@ -51,6 +51,6 @@ public class RedisTemplateTest {
         System.out.println(cat);
     }
 
-    //在feature-good分支修改
+    //在feature-good分支修改（good分支）
 
 }
